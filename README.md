@@ -2,7 +2,7 @@
 
 # ℹ️ Project information
 
-## 🔥 Elevator Pitch
+## 🔥 Elevator Pitch K
 Hexolar is an AI Solar Tool built upon an MPPT (Maximum Power Point Tracker) using Smart Electronics and Smart Softwares with IoT to maximise the efficiency of solar panels. It helps to check the feasibility of installing solar panels in a particular location and also monitors and displays past, live and future performance of the panels using informative graphs. It has a dedicated Battery management system and highly customizable settings. It will also notify the user when there is a problem or issue in the system by performing periodic checks. It helps in switching between supplying power to the utility grid and your house when needed based on upcoming weather conditions.
 <br/>
 
