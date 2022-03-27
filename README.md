@@ -25,7 +25,6 @@ As the first step, we decided upon the idea we are going to work with and split 
 ## 🤔 What problems did you ran into? How did resolve it?
 - Calculations required for the prediction of power were difficult to find. We spent a lot of time finding the formula.
 - Multiple cursor error kept on occurring with SQL because we were requesting data via multiple APIs at the same time. We later fixed this by making a single API request to get all data.
-<br/>
 
 ## 🚀 Future changes and improvements
 - Large scale testing can yield better results
