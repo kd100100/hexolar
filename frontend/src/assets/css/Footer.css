@@ -1,0 +1,76 @@
+/* ************************************************************************* */
+
+/* Footer.js */
+.footer {
+    margin-top: 10vh;
+    text-align: center;
+    padding: 3vh 0 3vh 0;
+}
+.footer__logo {
+    width: 107.5%;
+}
+.footer__second {
+    margin-top: 7px;
+    margin-bottom: -7px;
+}
+.footer__question {
+    font-size: 175%;
+    font-weight: 500;
+}
+.footer__button {
+    margin: 2vh auto;
+    font-size: 170%;
+    width: 73%;
+    border-radius: 8px;
+    padding: 0.5vh 0;
+    cursor: pointer;
+}
+.footer__button__img {
+    width: 25px;
+}
+.footer__second {
+    border-right: 3px solid white;
+}
+.footer__newsletter__text {
+    font-size: 180%;
+    font-weight: 500;
+    margin: 1vh 0 2vh 0;
+}
+.footer__newsletter__input {
+    width: 90%;
+    margin: 1vh auto;
+}
+.footer__newsletter__input input {
+    background-color: rgba(255, 255, 255, 0.33);
+    border: none;
+    color: white;
+    outline: none;
+    width: 80%;
+    font-size: 125%;
+    padding: 1vh 0.75vw;
+    border: 3px solid #10BAB9;
+    border-radius: 8px 0px 0px 8px;
+    margin-bottom: 0vh;
+}
+.footer__newsletter__input input::placeholder{
+    color: rgba(255, 255, 255, 0.596);
+}
+.footer__newsletter__button {
+    display: inline-block;
+    width: 20%;
+    font-size: 125%;
+    font-weight: 500;
+    padding: 1vh 0.75vw;
+    border: 3px solid #10BAB9;
+    border-radius: 0px 8px 8px 0px;
+}
+.footer__social {
+    font-size: 200%;
+    font-weight: 600;
+    margin-top: 20px;
+}
+.footer__social__img {
+    width: 40px;
+    margin: 0 5px;
+    margin-top: -10px;
+}

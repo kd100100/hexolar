@@ -1,0 +1,102 @@
+/* ************************************************************************* */
+
+/* Feasibility.js */
+.feasibility__content {
+    margin-top: 10vh;
+}
+.feasibility__left {
+    position: relative;
+}
+.feasibility__map {
+    width: 100%;
+    position: relative;
+}
+.feasibility__map__img {
+    width: 640px;
+}
+.feasibility__map__cover {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    width: 645px;
+    height: 100%;
+    background: rgba(0, 0, 0, 0.5);
+}
+.feasibility__map__cover__button {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    text-align: center;
+    width: 85%;
+}
+.feasibility__map__cover__button__img {
+    width: 25px;
+}
+.feasibility__right {
+    text-align: center;
+}
+.feasibility__right__title {
+    font-size: 350%;
+    font-weight: 600;
+    margin-top: 4.5vh;
+}
+.feasibility__right__subtitle {
+    font-size: 180%;
+    font-weight: 500;
+    margin: 2vh 0;
+    margin-bottom: 4vh;
+}
+.feasibility__right__form__label {
+    font-size: 170%;
+    font-weight: 500;
+}
+.feasibility__right__form__input {
+    width: 45%;
+    padding: 0.5rem 1rem;
+    font-size: 125%;
+    font-weight: 400;
+}
+.feasibility__right__form__button {
+    width: 70%;
+}
+
+/* ************************************************************************* */
+
+/* Result.js */
+
+.fesResult {
+    font-family: 'Roboto Slab', serif;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    text-align: center;
+}
+.feaResult__image {
+    width: 30%;
+    margin-top: 12vh;
+    margin-bottom: 2vh;
+}
+.feaResult__content {
+    font-size: 230%;
+    font-weight: 500;
+    margin: 2vh 0;
+}
+.feaResult__amount {
+    font-size: 500%;
+    font-weight: 600;
+    margin: 1vh 0;
+    margin-bottom: 0;
+}
+.feaResult__amount__unit {
+    font-size: 50%;
+    font-weight: 500;
+}
+.feaResult__subline {
+    font-family: 'Merriweather', serif;
+    font-style: italic;
+    font-weight: 700;
+    font-size: larger;
+}

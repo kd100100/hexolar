@@ -1,0 +1,17 @@
+
+/* ************************************************************************* */
+
+/* AddPanel.js */
+.panel__question1, .panel__question2 {
+    width: 235px;
+    padding: 10px 0;
+    border: 0;
+    font-size: 150%;
+    margin: 0 10px;
+    background-color: transparent;
+    border: 3px solid #10BAB9;
+    border-radius: 5px;
+}
+.panel__question1 {
+    background-color: #10BAB9;
+}

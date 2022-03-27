@@ -1,0 +1,64 @@
+@import url('https://fonts.googleapis.com/css2?family=Merriweather:ital,wght@0,300;0,400;0,700;0,900;1,300;1,400;1,700;1,900&family=Roboto+Slab:wght@100;200;300;400;500;600;700;800;900&display=swap');
+
+.container {
+    font-family: 'Roboto Slab', serif;
+}
+
+.white {
+    color: #fff;
+}
+.blue-p {
+    color: #2673ab;
+}
+.blue-s {
+    color: #a8cff0;
+}
+.green-p {
+    color: #10bab9;
+}
+.blue-p-bg {
+    background-color: rgb(38, 115, 171);
+}
+.green-p-bg {
+    background-color: rgb(16, 186, 185);
+}
+.green-s-bg {
+    background-color: #3ececd;
+}
+
+.flex {
+    display: flex;
+}
+.flex-1 {
+    flex: 1;
+}
+input {
+    outline: none;
+}
+select {
+    outline: none;
+}
+
+.training-ml {
+    width: 100vw;
+    height: 100vh;
+    background-color: rgba(0, 0, 0, 0.753);
+    position: absolute;
+    top: 0;
+    left: 0;
+    z-index: 1000;
+    display: none;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
+.training-inner {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 0%;
+    height: 100%;
+    background-color: rgba(38, 115, 171, 0.473);
+    z-index: 1001;
+    transition: 2.5s;
+}

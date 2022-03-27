@@ -1,0 +1,36 @@
+/* ************************************************************************* */
+
+/* Features.js */
+.features__blockr, .features__blockl {
+    margin: 5vh 0;
+}
+.features__blockr {
+    padding-left: 2vw;
+}
+.features img {
+    width: 100%;
+}
+.features__title {
+    font-size: 300%;
+    font-weight: 500;
+    margin-bottom: 2vh;
+}
+.features__text {
+    font-size: 140%;
+}
+.features__button {
+    font-size: calc(0.75vh + 0.75vw);
+    padding-top: 0.45vh;
+    padding-left: 1vw;
+    padding-right: 4px;
+    padding-bottom: 0.1vh;
+    margin-top: 7vh;
+}
+.features__button__arrow img {
+    width: 22.5px;
+}
+.features__button__arrow {
+    margin-left: 0.5vw;
+    margin-top: -0.25vh;
+    margin-right: -0.1vw;
+}
