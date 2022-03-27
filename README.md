@@ -1,4 +1,4 @@
-[Live Demo]()/[GitHub Repository](https://github.com/kd100100/team-hawks)
+[Live Demo]()/[GitHub Repository](https://github.com/kd100100/team-hawks)/[PPT Link](https://docs.google.com/presentation/d/1njukG2RBBtD1Kb2ye-lQvF8TSmLfJztpvPvFXEnC9D4/edit?usp=sharing)
 
 # ℹ️ Project information
 
