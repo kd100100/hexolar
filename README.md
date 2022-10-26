@@ -16,15 +16,15 @@ Usage of solar energy has been seeing an increasing trend in India & is on track
 <img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"/> <img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/> <img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg"/><img height=50 src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain.svg"/> <img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg"/> <img height=50 src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/NASA_logo.svg/2449px-NASA_logo.svg.png"/>
 <br/>
 
-## 🌏 How does your project help?
+## 🌏 How does our project help?
 Hexolar's smart features help solar based energy generation to take place in an efficient manner. It helps in detecting any failures of components very easily in the web application so that the user can fix it immediately. It also analyses the power generated with the NASA solar irradiance so that the user can easily notice when the panel is performing at a lower efficiency than expected.
 <br/>
 
-## ❤️ How did you built it?
+## ❤️ How did we built it?
 As the first step, we decided upon the idea we are going to work with and split up tasks between ourselves. We already had most of the components with us for the Hardware part. We started working with the Hardware, Frontend, Backend and Machine Learning parts simultaneously. By 7:30 am we were able to successfully complete the project and we started working on the PPT and Video.
 <br/>
 
-## 🤔 What problems did you ran into? How did resolve it?
+## 🤔 What problems did we run into? How did we resolve it?
 - Calculations required for the prediction of power were difficult to find. We spent a lot of time finding the formula.
 - Multiple cursor error kept on occurring with SQL because we were requesting data via multiple APIs at the same time. We later fixed this by making a single API request to get all data.
 
